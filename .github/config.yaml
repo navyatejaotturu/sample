@@ -1,3 +1,2 @@
 _extends: .github
-version: '1.0'
-name: "MyName"
+secret_management_subscribed: true
